@@ -18,7 +18,7 @@ Syntax:
 Example Dataframe (tab separated excel file is required):
 
         Accession    Start   Stop    Strand
-        NZ_CP006019  1875203 1877050 -1
+        NZ_CP006019.1  1875203 1877050 -1
         CP000472.1   123     975     1
 
 flank_grabber dependencies:
