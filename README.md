@@ -22,6 +22,7 @@ Example Dataframe (tab separated excel file is required):
         CP000472.1   123     975     1
 
 flank_grabber dependencies:
+
 	Bio module, SeqIO and Seq available in this package     refer to https://biopython.org/wiki/Download
 	tqdm                                                    refer to https://pypi.org/project/tqdm/
 
